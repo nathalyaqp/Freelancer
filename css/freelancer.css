@@ -1,0 +1,89 @@
+/* Inserta tu código aqui */
+
+*{
+	outline: 1px solid rgba(255, 0, 0, .4);
+}
+a h4{
+	margin:0;
+}
+.collapse ul li{
+	font-size: 10px;
+}
+.collapse ul{
+	margin-left: 500px;
+}
+.encabezado{
+	height: 350px;
+	max-width:100% ;
+	margin:0;
+	background: #11C299;
+	text-align: center;
+	color: white;
+}
+.star{
+	padding: 120px;
+	
+}
+.glyphicon-minus{
+	width: 50px;
+
+}
+
+.portfolio li{
+	list-style:  none;
+	max-width: 30%;
+	margin: 0;
+	float: left;
+	width: 60%;
+	position: relative;
+
+
+}
+.port{
+	width: 85%;
+	text-align: center;
+	margin: auto;
+	height: 500px;
+}
+.portfolio{
+	width: 85%;
+
+	margin: 1%;
+	margin:auto;
+	text-align: center;
+}
+.list{
+	width: 100%;
+	height: 100%;
+
+	text-align: center;
+	padding: 1%;
+}
+.ima{
+	width: 270px;
+	height: 200px;
+float: left;	
+}
+/*---about*****/
+.about{
+margin-top: 5%;
+	background:#11C299 ;
+	color:white;
+
+}
+.star{
+	padding-left: 630px;
+	max-width: 100%;
+	margin: 0;
+	margin-bottom: 0px;
+	margin: auto;
+
+}
+
+
+
+.row{
+	max-width: 55%;
+	margin: auto;
+	margin-top: -110px;
+}
